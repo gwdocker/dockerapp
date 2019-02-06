@@ -1,6 +1,6 @@
 jversion: 2
 jobs:
-  build:
+   build:
     working_directory: /dockerapp
     docker:
       - image: docker:17.05.0-ce-git
